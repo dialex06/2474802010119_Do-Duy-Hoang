@@ -1,10 +1,13 @@
 {
-    "name": "login-unit-test",
-    "version": "1.0.0",
-    "scripts": {
-        "test": "jest"
-    },
-    "devDependencies": {
-        "jest": "^30.0.0"
-    }
+  "name": "2474802010119-do-duy-hoang",
+  "version": "1.0.0",
+  "description": "Login test project",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0",
+    "jest-environment-jsdom": "^30.0.0"
+  }
 }
