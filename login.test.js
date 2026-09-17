@@ -1,3 +1,6 @@
+/**
+ * @jest-environment jsdom
+ */
 const { checkLogin } = require("./login");
 
 describe("Kiểm tra hàm đăng nhập", () => {
